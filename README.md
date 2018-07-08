@@ -6,7 +6,7 @@
 2) Run `bazel mobile-install //app/src/main:app --fat_apk_cpu=x86 --incremental --start_app`
 3) Profit
 
-![](/images/result.png)
+<img src="/images/result.png" width="600px" />
 
 ## Build graph
 
